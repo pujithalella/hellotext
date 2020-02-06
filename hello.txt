@@ -10,4 +10,6 @@ asdfghjkdfghjkl
 FHAasd,hkS/DK
 Fdhkfglkhnkgjl,m
 fascvhJndk
-
+add
+sub
+mul
